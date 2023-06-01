@@ -45,17 +45,28 @@ h1 {
   font-size: 24px;
   font-weight: bold;
   color: #333;
+  margin-top: 0;
+  margin-bottom: 10px;
 }
 
 h2 {
   font-size: 20px;
   font-weight: bold;
   color: #333;
+  margin-top: 0;
+  margin-bottom: 10px;
 }
 
 /* Paragraph styles */
 p {
   font-size: 16px;
   color: #333;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
+}
+
+/* Additional styles for main element */
+main {
+  text-align: left;
+  vertical-align: top;
+  /*line-height: 100vh; */
 }
