@@ -1,0 +1,61 @@
+/* App.css */
+
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Reusable button styles */
+.button {
+  padding: 10px 20px;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+/* Primary button style */
+.primary-button {
+  background-color: #2ecc71;
+}
+
+.primary-button:hover {
+  background-color: #27ae60;
+}
+
+/* Secondary button style */
+.secondary-button {
+  background-color: #27ae60;
+}
+
+.secondary-button:hover {
+  background-color: #219653;
+}
+
+/* Button text styles */
+.button-text {
+  color: #fff;
+}
+
+/* Heading styles */
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Paragraph styles */
+p {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 20px;
+}
