@@ -1,3 +1,9 @@
+# Talisman (for Timnit)
+I am creating Talisman to prototype a CRM-like tool that allows you to take control of your own public reputation. Indeed there are existing commercial tools for enterprises, but the individual should have the power to know what's happening with their information too!
+
+## Talisman Architecture
+
+
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
